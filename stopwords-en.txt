@@ -1,3 +1,4 @@
+# Retrieved from https://github.com/stopwords-iso/stopwords-en and runs unter their license
 'll
 'tis
 'twas
