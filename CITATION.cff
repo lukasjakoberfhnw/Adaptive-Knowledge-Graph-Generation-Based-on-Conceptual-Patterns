@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Adaptive Knowledge Graph Generation Prototype"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Jakober"
+    given-names: "Lukas"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: 2025-08-25
+version: "1.0.0"
+repository-code: "https://github.com/lukasjakoberfhnw/msct"
+preferred-citation:
+  type: thesis
+  title: "Adaptive Knowledge Graph Generation Based on Conceptual Patterns"
+  authors:
+    - family-names: "Jakober"
+      given-names: "Lukas"
+  year: 2025
+  institution: "University of Applied Sciences and Arts Northwestern Switzerland"
+  url: "https://github.com/lukasjakoberfhnw/msct"   # if available, else link to repo or university archive

@@ -1,0 +1,15 @@
+neo4j
+setuptools
+wheel
+spacy
+fastapi[standard]
+docling
+nltk
+pypdf
+pdf2image
+
+# pytesseract
+# Pillow
+# https://pypi.org/project/pdf-orientation-corrector/#description
+# PyPDF2
+# pdf-orientation-corrector
